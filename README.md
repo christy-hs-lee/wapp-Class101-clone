@@ -3,6 +3,7 @@
  
  >프로젝트 설명
  - Class101 Clone Coding
+ - 2021/03/09 ~ 2021/04/13
   
  >팀원
   
@@ -18,10 +19,9 @@
 Front_end
 |이름|git|역할|구현 기술|
 |------|-----|---|---|
-|한지윤|[Jiyoorin](https://github.com/Jiyoorin "Jiyoorin")|팀 리더, Front_end|Main Page, 회원가입 Page|
-|이한슬|[christy-hs-lee](https://github.com/christy-hs-lee "christy-hs-lee")|Front_end|Category drop, Banner, Popup|
-|진현서||Front_end|Login page, 문의 Page|
-
+|이한슬|[christy-hs-lee](https://github.com/christy-hs-lee "christy-hs-lee")|팀 리더, Front_end|Main Page, Category drop, Banner, Carousel, 바로수강 Page, Admin Page, Bootstrap 사용, 반응형 페이지 구현|
+|한지윤|[Jiyoorin](https://github.com/Jiyoorin "Jiyoorin")|Front_end|Main Page, 회원가입 Page, Popup, Admin Page, Bootstrap 사용|
+|진현서|[wlsgustj ](https://github.com/wlsgustj)|Front_end|Login page, 문의 Page, footer, Mypage|
 
 > 주요기술
  1. Java Spring Framework 사용 (MVC)
